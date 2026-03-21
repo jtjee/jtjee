@@ -1,4 +1,4 @@
-I'm currently working on edge AI projects, machine vision, and sensor fusion.
+I'm currently working on edge AI, machine vision, and sensor fusion projects.
 
 I've been really into embedded rust and spiking neural networks lately.
 
