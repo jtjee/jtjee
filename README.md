@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm currently working on edge AI projects and sensor fusion.
+
+I've been really into embedded rust and spiking neural networks lately.
 
 <!--
 **jtjee/jtjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
