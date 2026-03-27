@@ -3,7 +3,7 @@ I'm currently working on edge AI, machine vision, and sensor fusion projects.
 I've been really into embedded rust and spiking neural networks lately.
 
 Links to some of my past work:
-- Bobcat Jobsite Companion - [Technology Finalist for CONEXPO-CON/AGG Next Level Awards](https://www.bobcat.com/na/en/company/news-media/press-releases/bobcat-jobsite-companion-next-level-awards-finalist-conexpo)
+- Bobcat Jobsite Companion - [Technology Finalist for CONEXPO-CON/AGG Next Level Awards]([https://www.bobcat.com/na/en/company/news-media/press-releases/bobcat-jobsite-companion-next-level-awards-finalist-conexpo](https://www.bobcat.com/na/en/equipment/future-products/jobsite-companion))
 - Radio Transcription System for Search and Rescue - [Dakota Search and Rescue Operations](https://ndeavor.org/ndeavor-delivers-rapid-tech-advancements-for-north-dakota-search-and-rescue-operations/)
 - Sprayflow Sensor - [US20230025158A1](https://patents.google.com/patent/US20230025158A1), [US12188797B2
 ](https://patents.google.com/patent/US12188797B2)
